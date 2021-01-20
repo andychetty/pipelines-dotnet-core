@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/myfirstAZpipeline/Fabrikam/_apis/build/status/andychetty.pipelines-dotnet-core?branchName=master)]
+https://dev.azure.com/myfirstAZpipeline/Fabrikam/_apis/build/status/andychetty.pipelines-dotnet-core?branchName=master
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
